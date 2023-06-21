@@ -1,0 +1,135 @@
+element {
+}
+nav#master {
+  background-color: rgb(2, 128, 118);
+  background-image: none;
+  border-bottom-color: rgb(19, 193, 190);
+}
+nav#master {
+  background: #02A093;
+    background-color: rgb(2, 160, 147);
+    background-image: none;
+  border-bottom: 1px solid #0D8280;
+    border-bottom-color: rgb(13, 130, 128);
+  height: 44px;
+  padding: 0 15px;
+}
+body, body * {
+  color: rgb(207, 203, 196);
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, blockquote, q, th, td, caption, table, body, div, span, object, iframe, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tbody, tfoot, thead, tr, h1, h2, h3, h4, h5, h6 {
+  border-color: currentcolor;
+    border-bottom-color: currentcolor;
+}
+body, body * {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #252B27;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, blockquote, q, th, td, caption, table, body, div, span, object, iframe, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tbody, tfoot, thead, tr, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-left-color: currentcolor;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+* {
+  scrollbar-color: #454a4d #202324;
+}
+html, body {
+  color: #e8e6e3;
+}
+:root {
+  --darkreader-neutral-background: #131516;
+  --darkreader-neutral-text: #d8d4cf;
+  --darkreader-selection-background: #004daa;
+  --darkreader-selection-text: #e8e6e3;
+}
+html {
+  color-scheme: dark !important;
+}
+lement {
+    width: auto;
+    height: 28px;
+  }
+  nav#master #logo img {
+    margin-right: 2px;
+    vertical-align: middle;
+  }
+  a img {
+    border-color: currentcolor;
+  }
+  a img {
+    border: none;
+      border-top-color: currentcolor;
+      border-right-color: currentcolor;
+      border-bottom-color: currentcolor;
+      border-left-color: currentcolor;
+  }
+  body, body * {
+    color: rgb(207, 203, 196);
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, blockquote, q, th, td, caption, table, body, div, span, object, iframe, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tbody, tfoot, thead, tr, h1, h2, h3, h4, h5, h6 {
+    border-color: currentcolor;
+  }
+  body, body * {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #252B27;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, blockquote, q, th, td, caption, table, body, div, span, object, iframe, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tbody, tfoot, thead, tr, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+      margin-right: 0px;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+  }
+  * {
+    scrollbar-color: #454a4d #202324;
+  }
+  nav#master #logo {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  header a, header span {
+    color: rgb(232, 230, 227);
+    text-shadow: rgb(29, 34, 38) 0px 1px 0px;
+  }
+  header a, header span {
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #242A30;
+  }
+  a {
+    cursor: pointer;
+  }
+  a {
+    color: #3391ff;
+  }
+  html, body {
+    color: #e8e6e3;
+  }
+  :root {
+    --darkreader-neutral-background: #131516;
+    --darkreader-neutral-text: #d8d4cf;
+    --darkreader-selection-background: #004daa;
+    --darkreader-selection-text: #e8e6e3;
+  }
+  html {
+    color-scheme: dark !important;
+  }
