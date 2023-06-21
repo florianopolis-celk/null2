@@ -1,5 +1,4 @@
-element {
-}
+
 nav#master {
   background-color: rgb(2, 128, 118);
   background-image: none;
@@ -24,7 +23,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 body, body * {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   font-size: 12px;
-  color: #252B27;
+  color: #ffffff;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
@@ -87,7 +86,7 @@ lement {
   body, body * {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-size: 12px;
-    color: #252B27;
+    color: #ffffff;
   }
   article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary, blockquote, q, th, td, caption, table, body, div, span, object, iframe, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tbody, tfoot, thead, tr, h1, h2, h3, h4, h5, h6 {
     margin: 0;
